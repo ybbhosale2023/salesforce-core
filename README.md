@@ -3,7 +3,7 @@ Core functions required for Salesforce Products /Projects
 
 Following Core Features 
 
-# Logging for Apex , Trigger oe LWC Componwnta  
+# Logging for Apex , Trigger oe LWC Components
 
 # Base LWC Componenet 
 
