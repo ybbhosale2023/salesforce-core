@@ -11,4 +11,35 @@ Following Core Features
 
 # Upload Excel Componets 
 
-# Search Grid
+# Integration Freamework
+
+# Unit Test Framework
+
+# REST framework
+
+# Common Components 
+    ## View Record  component 
+    ## Error message 
+    ## ilustration 
+    ## Image Upload 
+    ## Multi picklist 
+    ## Lables Componet 
+    ## Document Count( Count how many Document uploaded for a objects )
+    ## Flag Display Component 
+# Chart Framework 
+
+# Map 
+
+# full calender
+    ## Make sure User Holidays Recorded in Calender
+
+# Email Parser Framework 
+
+# Escalation Framework for Custom Objects 
+
+# All Custom Settings updated At single Place
+
+
+# Static Resource for 
+    ## Countries Flag Images (SVG)
+
